@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Aditya Kumar Singh
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning DSA
-
-<!---
-AdityaSingh6666/AdityaSingh6666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Aditya Kumar Singh
+💡 Passionate about AI, data systems, and automation
+🛠️ Building projects with Python, React, TensorFlow, PostgreSQL
+📊 Experienced in web scraping, AI models, and data-driven applications
+🌍 Exploring AI-powered SaaS, intrusion detection, and scalable pipelines
